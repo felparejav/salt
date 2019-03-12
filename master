@@ -1,0 +1,6 @@
+interface: 192.168.5.20
+
+file_roots:
+   base:
+       - /srv/salt
+       - /srv/formulas/jenkins-formula
